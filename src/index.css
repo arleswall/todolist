@@ -4,7 +4,10 @@
 
 .body {
 background-image: url('https://static.vecteezy.com/system/resources/previews/000/094/191/non_2x/free-old-paper-vector.jpg');
+padding-bottom: 10%;
+padding-top: 5%;
 }
+
 .pic{
   height: 300px;
   position: absolute;
